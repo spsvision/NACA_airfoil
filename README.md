@@ -4,8 +4,9 @@ The fluid medium is air and the airfoil itself is modeled as aluminum. From an i
 The remaining edges are prescribed with a no-slip stationary wall condition. 
 
 #### Mesh
-![](airfoilNACA0012_files/user_files/mesh_closeup.png)
+![](airfoilNACA0012_files/user_files/mesh_closeup.PNG)
 
+The results below demonstrate the basic principles of how lift is generated.
 ### Pressure Contour
 ![](airfoilNACA0012_files/user_files/pressure_contour.png)
 ### Velocity Contour
